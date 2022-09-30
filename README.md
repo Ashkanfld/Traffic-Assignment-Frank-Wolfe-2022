@@ -1,3 +1,5 @@
+# Traffic-Assignment-Frank-Wolfe-2022
+
 This simple program computes traffic assignments using the FW method. BPR cost function is assigned as a major cost function method. 
 
 Our code is tested for various networks available on [TransportationNetworks](https://github.com/bstabler/TransportationNetworks).
